@@ -2,9 +2,6 @@
   import Nav from "./nav.svelte";
 </script>
 
-<script>
-  export let homepages;
-</script>
 
 <Nav />
 
@@ -12,7 +9,7 @@
   <section class="portfolio-block block-intro">
     <div
       class="avatar"
-      style="margin-top: -3rem; background-image: url(../static/self-portrait.jpg)"
+      style="margin-top: -3rem; background-image: url(../self-portrait.jpg)"
     />
     <div class="container">
       <div class="about-me">
