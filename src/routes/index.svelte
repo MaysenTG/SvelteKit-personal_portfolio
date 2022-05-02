@@ -33,7 +33,7 @@
         <div class="col-md-4">
           <div class="card special-skill-item border-0">
             <div class="card-header bg-transparent border-0">
-              <img alt="star icon" src="./static/start-icon.png" class="icon" />
+              <img alt="star icon" src="../start-icon.png" class="icon" />
             </div>
             <div class="card-body">
               <h3 class="card-title">Web Design</h3>
@@ -51,7 +51,7 @@
         <div class="col-md-4">
           <div class="card special-skill-item border-0">
             <div class="card-header bg-transparent border-0">
-              <img alt="light icon" src="./static/light-icon.png" class="icon" />
+              <img alt="light icon" src="../light-icon.png" class="icon" />
             </div>
             <div class="card-body">
               <h3 class="card-title">Interface Design</h3>
@@ -69,7 +69,7 @@
         <div class="col-md-4">
           <div class="card special-skill-item border-0">
             <div class="card-header bg-transparent border-0">
-              <img alt="settings icon" src="./static/settings-icon.png" class="icon" />
+              <img alt="settings icon" src="../settings-icon.png" class="icon" />
             </div>
             <div class="card-body">
               <h3 class="card-title">Database Integration</h3>
