@@ -1,5 +1,7 @@
 <script context="module">
   import Nav from "./nav.svelte";
+  import '../styles/index.css';
+  import '../styles/bootstrap.min.css';
 </script>
 
 
